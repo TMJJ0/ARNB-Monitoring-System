@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>img/chart.png</file>
+        <file>img/dash.png</file>
+        <file>img/ARNB_Solar.png</file>
+        <file>img/solar.png</file>
+        <file>img/setting.png</file>
+        <file>img/home.png</file>
+        <file>img/battery.png</file>
+    </qresource>
+</RCC>
